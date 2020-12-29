@@ -1,0 +1,40 @@
+.weatherForecast{
+    height: 100vh;
+}
+.weatherForecast .searchBox{
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+}
+.searchBox h3{
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    color: #1366ff;
+}
+.searchBox input{
+    width: 100%;
+    line-height: 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.weatherForecast p {
+    text-align: center;
+    color: red;
+    font-size: 18px;
+}
+
+.weatherCard{
+    width: 23%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 2%;
+    border: 2px solid #267eca;
+}
+.weatherCard table{
+    width: 100%;
+}
+.weatherCard table th{
+    text-align: left;
+}
